@@ -35,3 +35,4 @@ Durante estos dos cursos le perdí el miedo al manejo de la terminal y conocer l
 - Buscar diferente información y videos para llevar a cabo el objetivo.
 - Tener disciplina para llevar acabo proyectos y tener avance en el curso.
 - Sentirme Hacker al usar la terminal, pero sobre todo al instalar paquetería y ver como se instala  ( •̀ ω •́ )
+- Siempre tener GIT puede ayudarte en el caso de que utilices mal un comando como me toco a mi al hacer este repositorio que sobrescribí el README antes de crear la carpeta Intro_Terminal.
