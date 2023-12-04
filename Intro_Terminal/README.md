@@ -31,7 +31,12 @@ Podemos instalar una distribución de Linux en nuestro sistema operativo Windows
 Dejo estos videos que permiten tener una buena configuración del subsistema Linux en Windows.
 
 - [Instalación de WSL en Español](https://www.youtube.com/watch?v=L4f1XHrSJEg)
-- [Make your WSL terminal awesome](https://www.youtube.com/watch?v=235G6X5EAvM) personalizar la terminal.
+- [Make your WSL terminal awesome](https://www.youtube.com/watch?v=235G6X5EAvM) Personalizar la terminal.
 - [Setting up WSL for Data Science](https://www.youtube.com/watch?v=IWfsbOzQgXA) Flujo de Trabajo para DataScience en WSL.
 
 ## Notas del Curso
+
+- [Comandos Básicos](./Comandos_Basicos.md)
+- 
+
+[**Regresar a Inicio**](../README.md)
