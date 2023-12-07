@@ -37,6 +37,6 @@ Dejo estos videos que permiten tener una buena configuración del subsistema Lin
 ## Notas del Curso
 
 - [Comandos Básicos](./Comandos_Basicos.md)
-- 
+- [Explorando el Contenido de Archivos](./Explorando_Contenido.md)
 
-[**Regresar a Inicio**](../README.md)
+[**Regresar al Inicio**](../README.md)
