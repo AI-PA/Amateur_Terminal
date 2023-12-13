@@ -6,7 +6,7 @@ Es una manera de que nos facilita la manera de  buscar archivos en Linux directa
 
 Sus principales operadores son:
 
-- " * " El asterisco nos permite hacer una búsqueda a traves de la terminación del archivo (*.png)
+- " * " El asterisco que nos permite hacer una búsqueda a traves de la terminación del archivo (*.png)
 - ? El símbolo de interrogación nos permite buscar archivos en el que varia al menos un carácter o mas dependiendo del numero de ?.
 - [] Los corchetes nos permiten buscar de manera de un rango de valores que indiquemos.
 
