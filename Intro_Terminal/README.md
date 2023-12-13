@@ -40,5 +40,7 @@ Dejo estos videos que permiten tener una buena configuración del subsistema Lin
 - [Explorando el Contenido de Archivos](./Explorando_Contenido.md)
 - [Alias](./Alias.md)
 - [Wildcards](./WildCards.md)
+- [Construyendo Comandos](./Contruyendo_Comandos.md)
+- [Búsqueda de Archivos](./Busqueda.md)
 
 [**Regresar al Inicio**](../README.md)
