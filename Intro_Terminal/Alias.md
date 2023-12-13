@@ -54,3 +54,7 @@ man comando # Explica como se usa y da ejemplos.
 info comando # Otra forma de explicar su uso. 
 whatis comando # Explica de manera resumida que hace el comando. 
 ```
+
+[**Wildcards**](./WildCards.md)
+
+[Inicio](./README.md)

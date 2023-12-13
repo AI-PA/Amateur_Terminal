@@ -22,3 +22,5 @@ grep -c drama movies.csv # Cuenta cuantas veces se repite una palabra en el arch
 grep -v drama movies.csv # Evita todas las selecciones que tengan la palabra en el archivo. 
 grep -m 10 Fan movies.csv # Devuelve las primeras 10 Coincidencias del archivo. 
 ```
+
+[Inicio](./README.md)

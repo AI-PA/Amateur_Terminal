@@ -69,3 +69,7 @@ Con este comando primero vamos a crear el archivo para después con visual estud
 ![Alt text](../Pictures/BusquedaAnd.png)
 
 Una vez ya ejecutado tenemos la siguiente acción que podemos ver se creo el archivo de búsqueda y a su vez se esta visualizando el archivo en visual studio.
+
+[**Búsqueda de Archivo**](./Busqueda.md)
+
+[Inicio](./README.md)

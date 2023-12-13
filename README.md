@@ -18,15 +18,6 @@ La terminal y línea de comandos es una herramienta esencial para todo desarroll
 
 [Introducción y Notas](./Intro_Terminal/README.md)
 
-## Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda
-
-Conoce diferentes tipos de Jupyter Notebooks, la herramienta de trabajo fundamental para toda científica de datos que utilizarás en tus proyectos y en toda la Escuela de Data Science.
-
-- Instala y utiliza Conda para el manejo de librerías.
-- Usa notebooks en la nube como Deepnote y Colab.
-- Escoge el tipo de notebook que mejor te convenga.
-- Utiliza notebooks de manera local con VSCode.
-
 ### Lecciones Aprendidas
 
 Durante estos dos cursos le perdí el miedo al manejo de la terminal y conocer los comandos mas básicos de Linux ademas de instalar un subsistema Linux en windows (WSL) y personalizarlo con Oh my posh entre muchas otras mas que citare rápidamente.

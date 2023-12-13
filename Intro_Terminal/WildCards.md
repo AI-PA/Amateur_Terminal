@@ -36,3 +36,7 @@ Buscar todas los archivos que terminen en .md:
 En este caso se uso el comando find, después en el tipo pusimos lo que es f de archivos y en la parte de nombre se uso el wildcard * para buscar los archivo con terminación ".md".
 
 Este tema recomiendo practicarlo para poder aprenderlo, creando archivos y después mandarlos a buscar.
+
+[**Construyendo Comandos**](./Contruyendo_Comandos.md)
+
+[Inicio](./README.md)

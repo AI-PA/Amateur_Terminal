@@ -50,3 +50,7 @@ nautilus Ubicacion_Carpeta
 Con estos comandos podemos abrir archivos y carpetas desde la termina con una aplicación predeterminada lo cual nos permite visualizar de manera rápida el contenido de archivos.
 
 Listo para el siguiente tema, ahora nos tocara hablar de que son los alias.
+
+[**Alias**](./Alias.md)
+
+[Inicio](./README.md)
